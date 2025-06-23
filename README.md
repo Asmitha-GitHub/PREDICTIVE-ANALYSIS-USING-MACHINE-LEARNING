@@ -13,6 +13,8 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+CODE OF THE TASK:https://nbviewer.org/github/Asmitha-GitHub/PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING/blob/main/PREDICTIVE_ANALYSIS_USING_MACHINE_LEARNING.ipynb
+
 DESCRIPTION OF TASK 2:
 During the continuation of my internship at CodTech IT Solutions, guided by my mentor Neela Santosh, I was assigned Task 2 under the domain of Predictive Analysis using Machine Learning. This task focused on building a complete machine learning pipeline from scratch to predict house prices using supervised learning techniques in Python.
 
