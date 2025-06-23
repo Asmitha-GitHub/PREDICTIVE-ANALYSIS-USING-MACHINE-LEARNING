@@ -37,4 +37,5 @@ This task gave me hands-on experience in the entire machine learning lifecycle â
 Overall, Task 2 helped me strengthen my foundation in machine learning using real-world data and prepared me to handle predictive analytics projects independently in the future.
 
 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/ff4d3979-507a-421b-ab6d-24ca740b6371)
