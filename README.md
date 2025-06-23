@@ -35,3 +35,6 @@ Each model was evaluated using Mean Squared Error (MSE) and R² Score. The best-
 This task gave me hands-on experience in the entire machine learning lifecycle — from data preprocessing, feature selection, encoding, training, to model evaluation. I learned the importance of clean data, understood various performance metrics, and practiced comparing models to select the most optimal one.
 
 Overall, Task 2 helped me strengthen my foundation in machine learning using real-world data and prepared me to handle predictive analytics projects independently in the future.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/ff4d3979-507a-421b-ab6d-24ca740b6371)
